@@ -1,5 +1,35 @@
 # 💫 About Me:
-🚀 I’m currently working on<br><br>Building scalable UI automation frameworks using Playwright & Selenium (Java)<br><br>Improving test reliability, stability, and execution speed<br><br>Integrating automation with CI/CD pipelines (GitHub Actions / Jenkins)<br><br>Exploring AI-assisted testing and self-healing automation<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>Open-source test automation frameworks<br><br>Playwright / Selenium utilities<br><br>Automation best practices & design patterns<br><br>AI + QA / GenAI in software testing projects<br><br>🤝 I’m looking for help with<br><br>Advanced Playwright internals & performance optimization<br><br>Large-scale test architecture for enterprise applications<br><br>Test observability, reporting & flaky test reduction<br><br>Practical use cases of LLMs in QA workflows<br><br>🌱 I’m currently learning<br><br>Playwright (advanced features & debugging)<br><br>Test automation with TypeScript<br><br>AI/GenAI applications in software testing<br><br>Cloud-based test execution (AWS, containers, Docker)<br><br>💬 Ask me about<br><br>Selenium vs Playwright<br><br>Automation framework design (POM, Hybrid, BDD)<br><br>CI/CD integration for automation tests<br><br>Handling flaky tests & test stability<br><br>Career growth as an SDET / QA Automation Engineer
+
+🚀 I’m currently working on  
+Building scalable UI automation frameworks using Playwright & Selenium (Java)<br>
+Improving test reliability, stability, and execution speed<br>
+Integrating automation with CI/CD pipelines (GitHub Actions / Jenkins)<br>
+Exploring AI-assisted testing and self-healing automation<br>
+
+🧑‍🤝‍🧑 I’m looking to collaborate on  
+Open-source test automation frameworks<br>
+Playwright / Selenium utilities<br>
+Automation best practices & design patterns<br>
+AI + QA / GenAI in software testing projects<br>
+
+🤝 I’m looking for help with  
+Advanced Playwright internals & performance optimization<br>
+Large-scale test architecture for enterprise applications<br>
+Test observability, reporting & flaky test reduction<br>
+Practical use cases of LLMs in QA workflows<br>
+
+🌱 I’m currently learning  
+Playwright (advanced features & debugging)<br>
+Test automation with TypeScript<br>
+AI/GenAI applications in software testing<br>
+Cloud-based test execution (AWS, containers, Docker)<br>
+
+💬 Ask me about  
+Selenium vs Playwright<br>
+Automation framework design (POM, Hybrid, BDD)<br>
+CI/CD integration for automation tests<br>
+Handling flaky tests & test stability<br>
+Career growth as an SDET / QA Automation Engineer
 
 
 ## 🌐 Socials:
